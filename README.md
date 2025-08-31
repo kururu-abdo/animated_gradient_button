@@ -51,7 +51,8 @@ Adjust border radius and padding with sliders.
 cd example
 flutter pub get
 flutter run
-
+## Get the Full Package
+Purchase the complete source code, including updates and support, on [Gumroad](https://your-gumroad-link).
 Screenshots
       
 License
