@@ -56,13 +56,13 @@ Purchase the complete source code, including updates and support, on [Gumroad](h
 Screenshots
 <img width="526" height="206" alt="Screenshot 1447-03-08 at 10 21 16 AM" src="https://github.com/user-attachments/assets/5443e683-9bc1-4522-b4c8-5a5ab9cd4bde" />
 <img width="526" height="206" alt="Screenshot 1447-03-08 at 10 20 45 AM" src="https://github.com/user-attachments/assets/3704fcc7-8867-4fa7-ba8c-0535577f8638" />
-
+<img width="526" height="206" alt="Screenshot 1447-03-08 at 10 21 40 AM" src="https://github.com/user-attachments/assets/f66f2749-a5d1-4ab6-b530-9588fbd8643e" />
 
 https://github.com/user-attachments/assets/1284d15a-1056-4a96-850e-3bd5cb443cf1
 
 
       
-License<img width="526" height="206" alt="Screenshot 1447-03-08 at 10 21 40 AM" src="https://github.com/user-attachments/assets/f66f2749-a5d1-4ab6-b530-9588fbd8643e" />
+License
 
    MIT License. See LICENSE for details.
 Support
